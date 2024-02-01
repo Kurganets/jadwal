@@ -1747,7 +1747,7 @@ body {
 }
 
 .perspective--modalview {
-  background: linear-gradient(to bottom,#000099,#000066);
+  background: linear-gradient(to bottom,#000000,#000066);
   position: fixed;
   -webkit-perspective: 1500px;
   perspective: 1500px;
